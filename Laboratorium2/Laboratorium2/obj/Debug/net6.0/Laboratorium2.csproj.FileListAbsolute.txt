@@ -1,0 +1,14 @@
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\obj\Debug\net6.0\Laboratorium2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\obj\Debug\net6.0\Laboratorium2.AssemblyInfoInputs.cache
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\obj\Debug\net6.0\Laboratorium2.AssemblyInfo.cs
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\obj\Debug\net6.0\Laboratorium2.csproj.CoreCompileInputs.cache
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\bin\Debug\net6.0\Laboratorium2.exe
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\bin\Debug\net6.0\Laboratorium2.deps.json
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\bin\Debug\net6.0\Laboratorium2.runtimeconfig.json
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\bin\Debug\net6.0\Laboratorium2.dll
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\bin\Debug\net6.0\Laboratorium2.pdb
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\obj\Debug\net6.0\Laboratorium2.dll
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\obj\Debug\net6.0\refint\Laboratorium2.dll
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\obj\Debug\net6.0\Laboratorium2.pdb
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\obj\Debug\net6.0\Laboratorium2.genruntimeconfig.cache
+C:\Users\tesfo\source\repos\Laboratorium2\Laboratorium2\obj\Debug\net6.0\ref\Laboratorium2.dll
